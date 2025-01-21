@@ -1,0 +1,53 @@
+.main
+{
+margin-top:100px;
+text-align:center;
+}
+
+
+body 
+{
+background:white;
+}
+.search-input
+{
+    display:block;
+    width:400px;
+    margin-left:auto;
+    margin-right:auto;
+    line-height:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right :30px;
+    border:1px solid #dfele5
+    border-radius:15px;
+}
+.logo-img
+{
+display:block;
+width: 300px;
+margin-left:auto;
+margin-right:auto;
+}
+
+.btn-wrapper
+{
+    display:flex;
+    justify-content: center;
+}
+.btn {
+
+   margin-left:4px;
+   margin-right:4px;
+    margin-top:30px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-left:16px;
+    padding-right:16px;
+    border:none;
+    background: #dfe1df;
+    border-radius:4px;
+    font-size: 14px;
+     
+}
